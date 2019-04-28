@@ -23,9 +23,10 @@ python 2.7.15
 3. `python validate_check.py`
 
 
-CI Tests Smple (TODO)
+CI Test Smple
 
 https://travis-ci.com/TUSB/TheUnusualSkyBlock
+
 
 ## Design choices
 
