@@ -23,6 +23,10 @@ python 2.7.15
 3. `python validate_check.py`
 
 
+CI Tests Smple (TODO)
+
+https://travis-ci.com/TUSB/TheUnusualSkyBlock
+
 ## Design choices
 
 -   The use of the `minecraft:` namespace is mandatory anywhere it can be used.
