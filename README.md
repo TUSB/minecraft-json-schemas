@@ -5,6 +5,24 @@ Updated to: Minecraft Java Edition 1.14
 Json schemas for Minecraft files. Information about json schemas can be found at
 [json-schema.org](http://json-schema.org/)
 
+## Run Command
+
+Loottable / Advancement Check
+
+Specify the directory
+
+```
+LOOT_TABLE_JSON_DIR = ''
+ADVANCEMENT_JSON_DIR = ''
+```
+
+python 2.7.15
+
+1. `pip install jsonschema`
+2. `cd ./script/`
+3. `python validate_check.py`
+
+
 ## Design choices
 
 -   The use of the `minecraft:` namespace is mandatory anywhere it can be used.
