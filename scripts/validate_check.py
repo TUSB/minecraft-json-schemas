@@ -11,10 +11,10 @@ OK = 0
 NG = 0
 CASE = 0
 
-LOOT_TABLE_JSON_DIR = "data/loot_manager/loot_tables/"
+LOOT_TABLE_JSON_DIR = "/home/travis/build/TUSB/TheUnusualSkyBlock/data/loot_manager/loot_tables/"
 LOOT_TABLE_SCHEMA = "https://raw.githubusercontent.com/TUSB/minecraft-json-schemas/master/java/data/loot_table.json"
 
-ADVANCEMENT_JSON_DIR = "data/advancement_manager/"
+ADVANCEMENT_JSON_DIR = "/home/travis/build/TUSB/TheUnusualSkyBlock/data/advancement_manager/"
 ADVANCEMENT_SCHEMA = "https://raw.githubusercontent.com/TUSB/minecraft-json-schemas/master/java/data/advancement.json"
 
 
